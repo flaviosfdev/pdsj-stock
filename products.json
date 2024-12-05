@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "Caneca Porcelana 325ml AAA",
+            "description": "",
+            "brand": null,
+            "type": "PRODUCT",
+            "model": "Tradicional",
+            "variety": [
+                {
+                    "color": "Branca",
+                    "status": "activated",
+                    "stock": {
+                        "actual": 15,
+                        "minimum": 3,
+                        "maximum": 100
+                    }
+                }
+            ],
+            "tags": [],
+            "observation": "",
+            "prices": [
+                {
+                    "minimum": 1,
+                    "price": 3000
+                },
+                {
+                    "minimum": 3,
+                    "price": 2700
+                },
+                {
+                    "minimum": 5,
+                    "price": 2500
+                },
+                {
+                    "minimum": 10,
+                    "price": 2400
+                },
+                {
+                    "minimum": 20,
+                    "price": 2300
+                }
+            ]
+        }
+    ]
+}
